@@ -26,9 +26,9 @@ Freemium: users can use the product for free but need to pay for “premium feat
 ##Pricing comparisons
 **Insights: [2-3 sentences]. Identifying threats, strengths, and opportunities where you can refine or optimize pricing. 
 
-| Name | TCO | Pricing model| Package type
-|------|-------|-------|
-| [Company] | [$] |[] | [pricing model name] | [package type] |
+| Name | TCO | Pricing model | Package type
+|------|-------|-------|------|
+| [Company] | [$]  | [pricing model name] | [package type] |
 | [Competitor A] | [$] | [pricing model name] | [package type] |
 | [Competitor B] | [$] | [pricing model name] | [package type] |
 
@@ -40,16 +40,16 @@ Freemium: users can use the product for free but need to pay for “premium feat
 | [Annual growth] | [%] |
 | [Expansion revenue (if applicable] | [$] |
 | [Retention rate] | [%] |
-| [Lifetime value] | [] |
+| [Lifetime value] | [ ] |
 
 
-## Key unique selling points (USP)
+## Unique selling points (USP)
 We can sell at a premium or we can capture market share because: [2-3 sentences]. What’s your USP - what set your product apart from other existing ones? Is it sustainable? If so, how? 
 
 
 ## Key factors or trends impacting pricing 
-[Customers]: [2-3 sentenced] For ex. Customers are preferring to build their own solutions because of the prevalence of LLMs. 
-[Competitors]: 2-3 sentences. For ex. Race to the bottom price wars. 
+[Customers changes]: [2-3 sentences] For ex. Customers are preferring to build their own solutions because of the prevalence of LLMs. 
+[Competitor activity]: 2-3 sentences. For ex. New competitors or race-to-the-bottom price wars. 
 
 
 ## Customer insights [Pull from review sites, interviews, sales]
@@ -65,3 +65,4 @@ Reason 2
 
 
 *Sources: [List the conversations, documents, or data that informed this document]*
+
