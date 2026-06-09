@@ -8,23 +8,22 @@ Last updated: [YYYY-MM-DD]
 
 ---
 
-## Pricing and packaging
 
- **Pricing model for company and top 2-3 competitors: [Per seat / Usage-based / Flat-fee or subscription / outcome or success based/ Hybrid/Freemium] Free tier or trial: [Yes/No — details]
+ **Pricing model for company and top 2-3 competitors:** [Per seat / Usage-based / Flat-fee or subscription / outcome or success based/ Hybrid/Freemium] Free tier or trial: [Yes/No — details]
 
-Pricing model types
+**Pricing model types**
 
-Flat-fee or subscription: a fixed recurring fee for access to product or service
-Per seat: based on the number or users or seats who can access the product 
-Usage-based: based on how much customers use a product or service. For ex. API calls, tokens or data processed. It can be sold as a pay-as-you-go or a volume-based subscription
-Outcome or success-based
-Hybrid: combines 2 or more pricing models
-Freemium: users can use the product for free but need to pay for “premium features”
+- Flat-fee or subscription: a fixed recurring fee for access to product or service
+- Per seat: based on the number or users or seats who can access the product 
+- Usage-based: based on how much customers use a product or service. For ex. API calls, tokens or data processed. It can be sold as a pay-as-you-go or a volume-based subscription
+- Outcome or success-based
+- Hybrid: combines 2 or more pricing models
+- Freemium: users can use the product for free but need to pay for “premium features”
 
 **Packaging type**:[point player or standalone / packages or bundles (>1 product]
 
-##Pricing comparisons
-**Insights: [2-3 sentences]. Identifying threats, strengths, and opportunities where you can refine or optimize pricing. 
+**Pricing comparisons**
+**Insights:** [2-3 sentences]. Identifying threats, strengths, and opportunities where you can refine or optimize pricing. 
 
 | Name | TCO | Pricing model | Package type
 |------|-------|-------|------|
