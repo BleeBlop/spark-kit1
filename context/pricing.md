@@ -9,7 +9,15 @@ Last updated: [YYYY-MM-DD]
 ---
 
 
- **Pricing model for company and top 2-3 competitors:** [Per seat / Usage-based / Flat-fee or subscription / outcome or success based/ Hybrid/Freemium] Free tier or trial: [Yes/No — details]
+ **Pricing model comparison for company and top 2-3 competitors:** 
+
+**Insights:** [2-3 sentences]. Identifying threats, strengths, and opportunities where company can refine or optimize pricing. 
+
+| Name | TCO | Pricing model | Package type
+|------|-------|-------|------|
+| [Company] | [$]  | [pricing model name] | [package type] |
+| [Competitor A] | [$] | [pricing model name] | [package type] |
+| [Competitor B] | [$] | [pricing model name] | [package type] |
 
 **Pricing model types**
 
@@ -22,14 +30,7 @@ Last updated: [YYYY-MM-DD]
 
 **Packaging type**:[point player or standalone / packages or bundles (>1 product]
 
-**Pricing comparisons**
-**Insights:** [2-3 sentences]. Identifying threats, strengths, and opportunities where you can refine or optimize pricing. 
 
-| Name | TCO | Pricing model | Package type
-|------|-------|-------|------|
-| [Company] | [$]  | [pricing model name] | [package type] |
-| [Competitor A] | [$] | [pricing model name] | [package type] |
-| [Competitor B] | [$] | [pricing model name] | [package type] |
 
 ## Revenues
 **What is your revenue? Annual revenue growth rate? How is the market growing?**
