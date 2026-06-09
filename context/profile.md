@@ -30,7 +30,7 @@
 - [Capability 2]
 - [Capability 3]
 
-**Pricing model:** [Per seat / Usage-based / Flat / Freemium + paid tiers]
+**Pricing model:** [Per seat / Usage-based / Flat-fee or subscription / outcome or success based/ Hybrid/Freemium] 
 **Free tier or trial:** [Yes/No — details]
 
 **Integrations that matter for GTM:**
