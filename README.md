@@ -21,7 +21,7 @@ Claude reads your ICP, signals, and personas from the repo and produces a full a
 ## What's Inside
 
 ```
-gtm-starter-kit/
+spark-kit/
 │
 ├── CLAUDE.md                           ← Fill this in first. Claude reads it every session.
 │
