@@ -2,8 +2,10 @@
 
  **Pricing model comparison for company and top 2-3 competitors:** 
 
-**Insights:** 
-- [2-3 sentences]. Identifying threats, strengths, and opportunities where company can refine or optimize pricing. 
+**Insights:**  
+**Strengths:** Per-seat pricing scales easily. 
+**Opportunities:** We're leaving money on the table because we're not providing options for upselling.
+**Threats:** Customers are looking to building their own solutions, so our pricing needs to reflect the incremental value they get from buying vs building.
 
 | Name | TCO | Pricing model | Package type
 |------|-------|-------|------|
