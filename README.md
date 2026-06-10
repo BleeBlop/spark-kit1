@@ -1,6 +1,6 @@
 # GTM Starter Kit
 
-Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit] (https://github.com/KarlRaf/gtm-starter-kit/tree/main—) 
+Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit/tree/main—) 
 
 This repo enables GTM teams to automate GTM tasks with prompts: clone and add your context files once, rather than rebuilding context every session. 
 
