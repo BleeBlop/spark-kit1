@@ -1,7 +1,4 @@
 # Spark Kit
-
-Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit/tree/main—) 
-
 This repo enables GTM teams to automate GTM tasks with prompts: clone and add your context files once, rather than rebuilding context every session. 
 
 ---
@@ -182,6 +179,8 @@ Manual cadence for the rest:
 `examples/sample-company/` is a fully built-out version of the repository for Relay, a fictional workflow automation platform. Every context file is populated. Two real sample outputs are included: an account research brief and a live campaign with email sequences and performance tracking.
 
 Use it as a reference when filling in your own files. The signal library in particular (`examples/sample-company/context/signal-library.md`) shows what a mature, data-backed signal library looks like — with detection methods, decay logic, performance tracking, and signal combination rules.
+
+Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit/tree/main—) 
 
 ---
 
