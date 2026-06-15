@@ -180,7 +180,7 @@ Manual cadence for the rest:
 
 Use it as a reference when filling in your own files. The signal library in particular (`examples/sample-company/context/signal-library.md`) shows what a mature, data-backed signal library looks like — with detection methods, decay logic, performance tracking, and signal combination rules.
 
-Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit/tree/main—) 
+Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit) 
 
 ---
 
