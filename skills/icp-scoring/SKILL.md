@@ -112,7 +112,7 @@ Add points for active signals from `context/signal-library.md`. Reference the po
 
 ## Running at Scale (Batch Scoring)
 
-When scoring a large list (50+ accounts), structure the output as a table:
+When scoring a large list (5+ accounts), structure the output as a table:
 
 ```
 | Account | Domain | Firmographic | Technographic | Org | Signal | Total | Tier | Action | Priority Contacts| Contact title |
