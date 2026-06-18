@@ -1,4 +1,4 @@
-# Skill: Account-list-building 
+# Skill: Account-list-build 
 
 **Duration:** 30–60 minutes per list (or run in batch)
 **Output:** Clean, deduped, enriched account list saved to CRM or 'outputs/account-lists/'
@@ -7,7 +7,7 @@
 
 ## Quick Start
 ```
-Read skills/account-list-building/SKILL.md and context/icp-definition.md and output a table with a target account list for [company.com] against our ICP. 
+Read skills/account-list-build/SKILL.md and context/icp-definition.md and output a table with a target account list against our ICP. 
 ```
 
 
