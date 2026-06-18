@@ -50,7 +50,7 @@ This is the core of the skill. Each ICP criterion maps to a data source and a co
 | Org structure (has role/team) | LinkedIn, Sales Nav | Title search within the company |
 | Hiring signal (hiring for role) | Job boards, Greenhouse/Lever pages, LinkedIn Jobs | Open-req search by title |
 | Buyer contact names | LinkedIn, Sumble, Apollo, Clay | Buyer persona based on title and type |
-
+| Website/URL | Google Search | Indicate whether geo specific |
 
 
 Sources are examples — substitute whatever the team actually has access to. The principle holds regardless of tool: every ICP criterion needs a corresponding filter, and any criterion you can't filter on becomes a manual verification step later (flag these as “unfiltered”).
