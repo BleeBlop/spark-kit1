@@ -39,13 +39,14 @@ spark-kit/
 │   └── sync-signal-performance.py     ← Aggregate signal performance across campaigns
 │
 ├── skills/                             ← Claude executes these. One-line prompts.
-│   ├── setup/SKILL.md                 ← Run first. Provide domain → repo auto-populated.
+│   ├── setup/SKILL.md                 ← Run first. Provide domain → repo auto-populated
 │   ├── account-research/SKILL.md      ← Deep research on any account before outreach
 │   ├── signal-to-sequence/SKILL.md    ← Turn a signal into a live outbound campaign
+│   ├── account-list-build/SKILL.md    ← Build target account list against your ICP   
 │   ├── icp-scoring/SKILL.md          ← Score accounts against your ICP, assign tiers
-│   └── weekly-update/SKILL.md        ← Keep context current. Run Monday mornings.
+│   └── weekly-update/SKILL.md        ← Keep context current. Run Monday mornings
 │
-├── workflows/                          ← How your team operates. Human process docs.
+├── workflows/                          ← How your team operates. Human process docs
 │   ├── enrichment.md                  ← Data waterfall: free sources → Clay → proprietary
 │   ├── signal-routing.md              ← Decision tree: signal fires → what happens next
 │   └── campaign-build.md             ← End-to-end: audience → launch → measurement
@@ -55,6 +56,7 @@ spark-kit/
 │   └── competitor-switch.md          ← Four scenarios: unknown, active eval, intent, locked in
 │
 ├── outputs/                            ← All skill outputs land here
+│   ├── account-lists/                  ← Target account list outputs
 │   ├── scoring/                        ← ICP scoring outputs
 │   ├── campaigns/                      ← Campaign briefs and sequences
 │   └── .gitkeep
